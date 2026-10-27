@@ -2,7 +2,7 @@
 
 - html loader
 - css loaders
-- assets like font, pictures.
+- assets laoders like font, pictures.
 - json5 parser
 - html-webpack-plugin
 - css reset from Josh Comeau

@@ -1,4 +1,4 @@
-# This template only contains the following loaders and plugins
+## This template contains the following loaders and plugins
 
 1. html loader
 2. css loaders

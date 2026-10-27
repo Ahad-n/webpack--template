@@ -1,9 +1,9 @@
-## This template contains the following loaders and plugins
+## This template contains the following
 
-1. html loader
-2. css loaders
-3. assets like font, pictures.
-4. json5 parser
-5. html-webpack-plugin
-
-- The script has a deployment script "npm run deploy" to deploy from gh-pages.
+- html loader
+- css loaders
+- assets like font, pictures.
+- json5 parser
+- html-webpack-plugin
+- css reset from Josh Comeau
+- a deployment script "npm run deploy" to deploy from gh-pages.
